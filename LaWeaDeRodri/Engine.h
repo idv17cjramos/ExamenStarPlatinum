@@ -5,7 +5,6 @@
 class Engine
 {
 public:
-	Engine();
 	~Engine();
 	static Engine* getInstance();
 	void app(const size_t& x, const size_t& y, const char* title, const bool& fullScreen);
@@ -18,10 +17,13 @@ public:
 	TextWindow* getTextWindow() const;
 	MenuWindow* getMenuWindow() const;
 	void CloseApp();
+	void ReportInteraction();
 private:
-	static Engine* _singleton;//nop
+	Engine();
+	static Engine* _singleton;//TODO
 	size_t _width, _height;
-	bool _closing;
-	Window* _windows[2] = { nullptr, nullptr };//wat
+	bool _closing, _interactionHappened;
+	Window* _windows[2] = { nullptr, nullptr };//TODO
+
 };
 
