@@ -1,0 +1,55 @@
+﻿  Window.cpp
+c:\users\royra\documents\github\weaderodri\laweaderodri\menuwindow.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\royra\documents\github\weaderodri\laweaderodri\menuwindow.h(41): warning C4309: 'initializing': truncation of constant value
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(24): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(25): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(28): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(29): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(32): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(33): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(36): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(37): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(42): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(43): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(46): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(52): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(53): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(56): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(64): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\window.cpp(65): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  Tile.cpp
+  TextWindow.cpp
+c:\users\royra\documents\github\weaderodri\laweaderodri\textwindow.cpp(22): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\textwindow.cpp(28): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\textwindow.cpp(31): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\textwindow.cpp(43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\textwindow.cpp(84): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\textwindow.cpp(85): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+  StateManager.cpp
+  State.cpp
+  SimplePool.cpp
+  MenuWindow.cpp
+c:\users\royra\documents\github\weaderodri\laweaderodri\menuwindow.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\royra\documents\github\weaderodri\laweaderodri\menuwindow.h(41): warning C4309: 'initializing': truncation of constant value
+c:\users\royra\documents\github\weaderodri\laweaderodri\menuwindow.cpp(21): warning C4101: 'pos': unreferenced local variable
+c:\users\royra\documents\github\weaderodri\laweaderodri\menuwindow.cpp(22): warning C4101: 'nonImportant': unreferenced local variable
+  Menu.cpp
+  Map.cpp
+  MainState.cpp
+c:\users\royra\documents\github\weaderodri\laweaderodri\menuwindow.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\royra\documents\github\weaderodri\laweaderodri\menuwindow.h(41): warning C4309: 'initializing': truncation of constant value
+  main.cpp
+c:\users\royra\documents\github\weaderodri\laweaderodri\menuwindow.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\royra\documents\github\weaderodri\laweaderodri\menuwindow.h(41): warning C4309: 'initializing': truncation of constant value
+  HelperFunctions.cpp
+  Entity.cpp
+  Engine.cpp
+c:\users\royra\documents\github\weaderodri\laweaderodri\menuwindow.h(40): warning C4309: 'initializing': truncation of constant value
+c:\users\royra\documents\github\weaderodri\laweaderodri\menuwindow.h(41): warning C4309: 'initializing': truncation of constant value
+c:\users\royra\documents\github\weaderodri\laweaderodri\engine.cpp(54): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\engine.cpp(56): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\engine.cpp(72): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\royra\documents\github\weaderodri\laweaderodri\engine.cpp(73): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating Code...
+  LaWeaDeRodri.vcxproj -> C:\Users\royra\Documents\GitHub\WeaDeRodri\x64\Debug\LaWeaDeRodri.exe
+  LaWeaDeRodri.vcxproj -> C:\Users\royra\Documents\GitHub\WeaDeRodri\x64\Debug\LaWeaDeRodri.pdb (Partial PDB)
