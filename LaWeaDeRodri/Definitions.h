@@ -136,3 +136,99 @@ enum TileStatus {
 	NotWalked,
 	Seen
 };
+
+enum RPGClass {
+	Warrior,
+	Paladin,
+	Barbarian,
+	Archer,
+	Thief,
+	Priest,
+	Mage,
+	Summoner,
+	RPGClassEnumEnd,
+};
+
+enum RPGWarriorSkills
+{
+	WarriorAttack,
+	RPGWarriorSkillsEnumEnd,
+};
+
+enum RPGPaladinSkills
+{
+	PaladinAttack,
+	RPGPaladinSkillsEnumEnd,
+};
+
+enum RPGBarbarianSkills 
+{
+	BarbarianAttack,
+	RPGBarbarianSkillsEnumEnd,
+};
+
+enum RPGArcherSkills 
+{
+	ArcherAttack,
+	RPGArcherSkillsEnumEnd,
+};
+
+enum RPGThiefSkills
+{
+	ThiefAttack,
+	RPGThiefSkillsEnumEnd,
+};
+
+enum RPGPriestSkills
+{
+	PriestAttack,
+	RPGPriestSkillsEnumEnd,
+};
+
+enum RPGMageSkills
+{
+	MageAttack,
+	RPGMageSkillsEnumEnd,
+};
+
+enum RPGSummonerSkills
+{
+	SummonerAttack,
+	RPGSummonerSkillsEnumEnd,
+};
+
+enum Element {
+	ElementNone = 0x00,
+	Earth = 0x01,
+	Wind = 0x02,
+	Fire = 0x04,
+	ElementWater = 0x08,
+};
+
+enum Physical {
+	PhysicalNone = 0x00,
+	Slash = 0x01,
+	Thrust = 0x02,
+	Blunt = 0x03,
+};
+
+enum RPGItemType
+{
+	Head,
+	Chest,
+	Legs,
+	Weapon,
+	Consumable,
+	RPGItemTypeEnumEnd,
+};
+
+enum RPGItemUsageType
+{
+	HealHP,
+	HealMP,
+	AddStr,
+	AddStam,
+	AddDex,
+	AddInt,
+	AddLuk
+};
